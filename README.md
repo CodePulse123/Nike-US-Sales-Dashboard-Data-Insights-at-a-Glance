@@ -3,7 +3,7 @@
 
 **DASHBOARD OVERVIEW**
 
-![Dashboard Preview](dashboard2.png)
+![Dashboard Preview](dashboard2.jpeg)
 
 The Nike US Sales Dashboard provides a clear, visual snapshot of Nike's sales performance across the United States. This dashboard is designed to give stakeholders quick access to key metrics, trends, and product insights to drive strategic business decisions.
 It combines numerical KPIs, charts, and geographic visualizations to deliver a comprehensive view of sales performance by region, state, product, and category.
